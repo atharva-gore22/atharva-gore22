@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate I'm a passionate technologist and aspiring entrepreneur. I love building innovative solutions and learning new technologies.
+I'm a passionate technologist and aspiring entrepreneur. I love building innovative solutions and learning new technologies.
 
 - 🎓 I'm a first year IT undergrad at PVGCOET Pune
 - ⚡ My interest : I've a deep interest in artificial intelligence and machine learning.
