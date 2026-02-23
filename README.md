@@ -65,7 +65,7 @@ I'm a **first-year IT undergrad** at PVGCOET Pune, passionate about **Artificial
 
 <div align="center">
 
-### 🍽️ [Mess Manager](https://github.com/atharvagore22/mess-manager)
+### 🍽️ [Mess Manager](https://mess-manager-atharvagore.base44.app)
 **A web application to streamline mess operations and meal management**
   
 `AI-assisted` `Web Development` `Automation`
@@ -74,7 +74,7 @@ I'm a **first-year IT undergrad** at PVGCOET Pune, passionate about **Artificial
 
 ---
 
-### 🏥 [Medi-Setu](https://github.com/atharvagore22/medi-setu)
+### 🏥 [Medi-Setu](https://medi-setu-atharvagore.base44.app)
 **Healthcare web app bridging patients and medical services**
   
 `AI-assisted` `Healthcare Tech` `Accessibility`
@@ -204,7 +204,7 @@ I'm always excited to connect with fellow tech enthusiasts, entrepreneurs, and l
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharvagore22)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvagore229@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_Out_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check_Out_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharvagore-personal-portal.base44.app)
 
 </div>
 
