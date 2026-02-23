@@ -100,7 +100,7 @@ I'm a **first-year IT undergrad** at PVGCOET Pune, passionate about **Artificial
 <div align="center">
 
 ```
-🎯 2024-2025 Roadmap:
+🎯 2025-2026 Roadmap:
    ├── ✅ Started with Python basics
    ├── 🔄 Building AI-powered projects
    ├── 🔄 Learning Machine Learning fundamentals
