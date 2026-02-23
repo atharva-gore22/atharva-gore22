@@ -72,11 +72,11 @@ I'm a **first-year IT undergrad** at **PVGCOET Pune**, passionate about **Artifi
 ---
 
 ### 🏥 [Medi-Setu](https://medi-setu-atharvagore.base44.app)
-**Healthcare platform bridging patients and medical services**
+**Medi-Setu is your AI-powered medical report assistant, providing simple, compassionate explanations in your preferred language (Marathi, Hindi, or English). Upload your lab reports and get easy-to-understand insights without any medical jargon.**
   
 `AI-Assisted Development` `Healthcare Tech` `Social Impact`
 
-*Connecting people with the right medical resources to make healthcare more accessible*
+*Understand Your Medical Reports In Your Language*
 
 ---
 
