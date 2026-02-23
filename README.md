@@ -14,24 +14,20 @@
 
 </div>
 
+## 💫 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 💫 About Me
+I'm a **first-year IT undergrad** at **PVGCOET Pune**, passionate about **Artificial Intelligence** and **entrepreneurship**. My goal is to build innovative AI solutions and create a startup that makes a real impact.
 
-> *"The world's exploring the power of AI, and so am I. Building my own AI startup, preparing for an MBA, and proving my potential. The world will acknowledge — just you wait."*
-
-I'm a **first-year IT undergrad** at PVGCOET Pune, passionate about **Artificial Intelligence** and entrepreneurship. I believe in the power of AI to transform industries, and I'm on a mission to build something meaningful.
-
-- 🤖 **Exploring:** AI/ML, Python, and how to leverage AI for real-world problems
+- 🤖 **Exploring:** AI/ML, Python, and leveraging AI to solve real-world problems
 - 💼 **Vision:** Building my own AI-powered startup
-- 🎯 **Goal:** MBA + Tech = The perfect entrepreneurial combination
-- 🌱 **Currently Learning:** Python, AI/ML fundamentals, and building with AI tools
-- 💡 **Mindset:** I know I can do anything. I've got the potential and capability.
+- 🎯 **Future Goals:** Pursuing an MBA to combine technical skills with business acumen
+- 🌱 **Currently Learning:** Python, C/C++, AI/ML fundamentals, and building with AI tools
+- 💡 **Belief:** With the right mindset and determination, anything is possible
 - 📧 **Reach me:** atharvagore229@gmail.com
 
 <br clear="both">
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -39,16 +35,18 @@ I'm a **first-year IT undergrad** at PVGCOET Pune, passionate about **Artificial
 
 <div align="center">
 
-### Languages & Technologies
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI & Tools
+### AI Tools & Platforms
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit_AI-667881?style=for-the-badge&logo=replit&logoColor=white)
 
 ### Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -58,7 +56,6 @@ I'm a **first-year IT undergrad** at PVGCOET Pune, passionate about **Artificial
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🚀 Featured Projects
@@ -66,161 +63,117 @@ I'm a **first-year IT undergrad** at PVGCOET Pune, passionate about **Artificial
 <div align="center">
 
 ### 🍽️ [Mess Manager](https://mess-manager-atharvagore.base44.app)
-**A web application to streamline mess operations and meal management**
+**Web application for streamlining mess operations and meal management**
   
-`AI-assisted` `Web Development` `Automation`
+`AI-Assisted Development` `Web Application` `Automation`
 
-*Simplifying daily mess operations for hostels and PGs with features like meal planning, user management, and automated notifications*
+*Simplifies daily mess operations for hostels and PGs with meal planning, user management, and automated notifications*
 
 ---
 
 ### 🏥 [Medi-Setu](https://medi-setu-atharvagore.base44.app)
-**Healthcare web app bridging patients and medical services**
+**Healthcare platform bridging patients and medical services**
   
-`AI-assisted` `Healthcare Tech` `Accessibility`
+`AI-Assisted Development` `Healthcare Tech` `Social Impact`
 
-*Making healthcare more accessible by connecting people with the right medical resources*
+*Connecting people with the right medical resources to make healthcare more accessible*
 
 ---
 
 ### 🌐 [Portfolio Website](https://atharvagore-personal-portal.base44.app)
-**Personal portfolio showcasing my journey and projects**
+**Personal portfolio showcasing projects and journey**
   
 `HTML` `CSS` `JavaScript` `Responsive Design`
 
-*A responsive portfolio featuring my projects, skills, and contact information*
+*Professional portfolio featuring my work, skills, and vision*
 
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 📈 My Learning Journey
+## 📈 Learning Journey
 
 <div align="center">
 
-```
-🎯 2025-2026 Roadmap:
-   ├── ✅ Started with Python basics
-   ├── 🔄 Building AI-powered projects
-   ├── 🔄 Learning Machine Learning fundamentals
-   ├── 📋 Planning: Advanced AI/ML concepts
-   ├── 📋 Planning: Full-stack development
-   └── 🎯 Goal: Launch my first AI startup MVP
-```
+### 🎯 2025-2026 Roadmap
 
 </div>
 
-### 🌱 What I'm Learning Right Now
-- 🐍 **Python** - Building strong fundamentals
-- 🤖 **AI/ML Tools** - Leveraging AI to build faster and smarter
-- 💻 **Web Development** - Creating user-friendly interfaces
-- 📊 **Problem Solving** - DSA and logical thinking
-- 💼 **Entrepreneurship** - Business thinking + Tech execution
+```
+├── ✅ Python Programming Basics
+├── 🔄 Building AI-Powered Projects
+├── 🔄 Machine Learning Fundamentals
+├── 📋 Advanced AI/ML Concepts
+├── 📋 Full-Stack Development
+└── 🎯 Launch First AI Startup MVP
+```
 
+### 🌱 Currently Focusing On
+
+- 🐍 **Python** - Mastering fundamentals and advanced concepts
+- 🤖 **AI/ML Tools** - Leveraging AI to build innovative solutions
+- 💻 **Data Structures & Algorithms** - Building strong problem-solving skills
+- 🎨 **Web Development** - Creating user-friendly interfaces
+- 💼 **Business Thinking** - Combining tech expertise with entrepreneurial mindset
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🎯 Goals & Vision
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 📅 Short-term (2024-2025)
-- ✨ Master Python and AI/ML basics
-- 🚀 Build 5+ AI-powered projects
-- 📚 Contribute to open-source AI projects
-- 🏆 Participate in hackathons
+### 📅 Short-term (2025-2026)
+
+- ✨ Master Python, C/C++, and AI/ML basics
+- 🚀 Build 5+ impactful AI-powered projects
+- 📚 Contribute to open-source projects
+- 🏆 Participate in hackathons and competitions
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 Long-term (2-5 years)
-- 💡 Launch my own **AI startup**
-- 🎓 Pursue **MBA** to combine tech with business acumen
-- 🌍 Build products that make a **real-world impact**
-- 👥 Create a team of passionate builders
+
+- 💡 Launch my own AI startup
+- 🎓 Pursue MBA for business expertise
+- 🌍 Build products with real-world impact
+- 👥 Lead a team of passionate innovators
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
 ### 🌟 Ultimate Vision
-> **Build an AI-powered company that solves real problems and proves that with the right mindset, potential, and capability — anything is possible.**
+
+**Build an AI-powered company that solves meaningful problems and creates lasting impact**
 
 </div>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvagore22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvagore22&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvagore22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 💭 My Philosophy
-
-```python
-class AtharvGore:
-    def __init__(self):
-        self.name = "Atharva Gore"
-        self.role = "First Year IT Student"
-        self.location = "Pune, India"
-        self.education = "PVGCOET Pune"
-        self.interests = ["AI/ML", "Startups", "Web Development"]
-        self.future_goal = "AI Entrepreneur"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together!")
-    
-    def my_motto(self):
-        return "I know I can do anything. The world will acknowledge — just you wait! 🚀"
-
-me = AtharvGore()
-me.say_hi()
-print(me.my_motto())
-```
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🤝 Let's Connect!
 
-I'm always excited to connect with fellow tech enthusiasts, entrepreneurs, and learners. Whether it's about AI, startups, or just exchanging ideas — let's talk!
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharvagore22)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvagore229@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_Out_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharvagore-personal-portal.base44.app)
 
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvagore22&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+I'm always eager to collaborate, learn, and discuss ideas about AI, technology, and entrepreneurship. Feel free to reach out!
 
 <br>
 
-<div align="center">
-  
-### 💡 "The best way to predict the future is to create it."
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharvagore22)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvagore229@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharvagore-personal-portal.base44.app)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=atharvagore22&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+<br>
+
+### 💡 *"The best way to predict the future is to create it."*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
